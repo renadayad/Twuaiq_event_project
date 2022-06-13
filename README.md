@@ -7,4 +7,4 @@
  :https://documenter.getpostman.com/view/21096310/Uz5Nit1H
  
  `<Hosting>`
- :https://tuwaiqevent.herokuapp.com/
+ :https://renadtuwaiqevent1.herokuapp.com/
